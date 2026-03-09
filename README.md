@@ -11,7 +11,7 @@
 **Power:** 9V Battery.
 **Manufacture:** Upload `valentine's-heart-pcb.zip` to any PCB fabricator.
 
-* audio-sync-led
+* audio-sync-led 
 
 * Beat‑Triggered LED Bracelet for concerts
 
@@ -23,3 +23,4 @@
 
 * A small, self-contained “smart button board” for experiments or IoT control.
 
+* 
