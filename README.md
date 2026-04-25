@@ -1,4 +1,4 @@
-# Circuits
+# Beginner Circuits
 
 ## analog-basics
 - LED (Getting started with KiCad basics essential guide)
@@ -22,3 +22,12 @@
 ## power-circuits
 - 9V Battery powered LED systems
 - ESP32 standalone sensor board (power + regulation)
+
+# Complex Circuits (4 layered)
+- IMU attitude estimation system
+- RTOS
+- RaspberryPi Ground station
+- Flight data recorder
+- FPGA based signal processing unit
+- Fusion 360 + Electronics Integration Project [enclosure for your avionics module + Thermal/vibration considerations]
+- CAN bus multi-node system
