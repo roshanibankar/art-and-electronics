@@ -22,12 +22,3 @@
 ## power-circuits
 - 9V Battery powered LED systems
 - ESP32 standalone sensor board (power + regulation)
-
-## embedded-systems
-- ESP32 Sensor Board (standalone system)
-- Mini Photobooth (camera + control system)
-- Beat-Triggered LED Bracelet (MCU-based version)
-
-## mechanical-integration
-- Mini Photobooth (case-integrated design)
-- Wearable LED Bracelet (enclosure + ergonomics)
