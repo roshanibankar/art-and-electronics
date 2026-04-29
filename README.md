@@ -6,6 +6,7 @@
 - Google Dino Game Player using LDR sensors (dinorun4)
 - Ultrasonic Sensor Distance & Depth Measurement (Arduino)
 
+--------------
 - Audio Sync LED Project  
 - Beat-Triggered LED Bracelet for concerts
 - Light-following / Dark-avoiding Robot
