@@ -14,6 +14,7 @@
 - Audio Envelope Detect  
 
 ## 555 Timer Characterization
+- LED Heart Blinker  
 - LED Blinker  
 - Astable Oscillator  
 - Pulse Generator  
