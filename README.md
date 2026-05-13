@@ -1,4 +1,4 @@
-# Art of Electronics Lab
+# Art of Electronics
 ---
 
 # Analog
