@@ -14,8 +14,7 @@
 - Audio Envelope Detect  
 
 ## 555 Timer Characterization
-- LED Heart Blinker  
-- LED Blinker  
+- LED Heart Blinker + Kicad beginner guide
 - Astable Oscillator  
 - Pulse Generator  
 
